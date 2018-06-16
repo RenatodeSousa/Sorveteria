@@ -1,0 +1,6 @@
+C:\Users\Renato\Desktop\trabalho\Sorveteria\Entidade\bin\Debug\Entidade.dll
+C:\Users\Renato\Desktop\trabalho\Sorveteria\Entidade\bin\Debug\Entidade.pdb
+C:\Users\Renato\Desktop\trabalho\Sorveteria\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\trabalho\Sorveteria\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\trabalho\Sorveteria\Entidade\obj\Debug\Entidade.dll
+C:\Users\Renato\Desktop\trabalho\Sorveteria\Entidade\obj\Debug\Entidade.pdb

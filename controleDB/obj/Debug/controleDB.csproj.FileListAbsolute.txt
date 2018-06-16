@@ -1,0 +1,9 @@
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\obj\Debug\controleDB.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\obj\Debug\controleDB.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\bin\Debug\controleDB.dll
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\bin\Debug\controleDB.pdb
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\bin\Debug\Entidade.dll
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\bin\Debug\Entidade.pdb
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\obj\Debug\controleDB.csproj.CopyComplete
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\obj\Debug\controleDB.dll
+C:\Users\Renato\Desktop\trabalho\Sorveteria\controleDB\obj\Debug\controleDB.pdb
